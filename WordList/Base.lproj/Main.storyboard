@@ -209,7 +209,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9zc-vG-TcM" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="897" y="839"/>
+            <point key="canvasLocation" x="897" y="761"/>
         </scene>
         <!--新規追加-->
         <scene sceneID="Box-gi-GKT">
@@ -263,7 +263,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="k4R-3e-AHq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1680" y="839"/>
+            <point key="canvasLocation" x="1679" y="761"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="NDV-4E-hND">
@@ -281,7 +281,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vUC-em-av5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="97" y="839"/>
+            <point key="canvasLocation" x="97" y="761"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
